@@ -16,3 +16,6 @@
 * Redux 
 * UI Ant Design
 * Draw IO (UML)
+
+## Conception UML
+![ARIMAYI drawio](https://github.com/user-attachments/assets/0cef0373-e62a-4b65-ae4c-3e2a92694f28)
